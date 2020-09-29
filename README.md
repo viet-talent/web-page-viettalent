@@ -1,12 +1,19 @@
-# Nextjs-React-Redux-Example
-
-A Simple Counter App made with next.js, react and redux. 
+# Viettalent website
 
 To run the app:
 
 ```
-npm install
-npm run dev
+yarn install
 ```
 
-[Detailed Explanation](https://dev.to/waqasabbasi/server-side-rendered-app-with-next-js-react-and-redux-38gf)
+Then
+
+```
+yarn dev
+```
+
+**To export the static files:**
+
+```
+yarn export
+```
