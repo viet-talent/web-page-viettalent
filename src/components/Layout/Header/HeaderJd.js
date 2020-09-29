@@ -22,9 +22,9 @@ const Header = () => {
               </div>
               <div id="right-header" className="col-xl-9 col-lg-9">
                 <div className="header-button f-right d-none d-lg-block">
-                  <a className="btn" href="/job" target="_blank">
+                  <a className="btn" href="https://viettalent.typeform.com/to/lL6WBXxF" target="_blank">
                     <span className="btn-text">
-                      Ứng tuyển
+                      Nộp hồ sơ
                       <i>
                         <FontAwesomeIcon icon={['fas', 'long-arrow-right']} />
                       </i>
@@ -35,18 +35,8 @@ const Header = () => {
                   <nav id="mobile-menu">
                     <ul>
                       <li>
-                        <Link href="#technology" as="#technology">
-                          <a>Công nghệ</a>
-                        </Link>
-                      </li>
-                      <li>
-                        <Link href="#culture" as="#culture">
-                          <a>Văn hoá</a>
-                        </Link>
-                      </li>
-                      <li>
-                        <Link href="#team" as="#team">
-                          <a>Đội ngũ</a>
+                        <Link href="#jd-bottom" as="#jd-bottom">
+                          <a>Quyền lợi</a>
                         </Link>
                       </li>
                       <li>
